@@ -1,2 +1,2 @@
-# Projetos_feitos_na_msp430f5529
+# Projetos feitos na msp430f5529
 Meus códigos que rodam várias coisas legais na msp430f5529 e seus periféricos, desde um sensor de aproximação que muda o som emitido, até um jogo no qual se pode aumentar os pontos recebidos apertando no botão correto da placa, obviamente isso deveria ser melhor detalhado mas para isso se sintam a vontade de observar o código e até mesmo me perguntar pessoalmente se for o caso.
